@@ -68,7 +68,7 @@ The Output would be:
 
 * copy the URL http://127.0.0.1:5000/ and paste it in your preferred browser tab
 
-After the URL it should display:
+After pasting the URL it should display:
 
 .. code-block:: text 
 
