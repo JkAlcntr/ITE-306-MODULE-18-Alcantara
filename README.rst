@@ -54,7 +54,7 @@ Step 2: Testing
 
 .. code-block:: text
 
-    C:\Users\Desktop>python C:\Users\Desktop\Environment\hello.py
+    C:\Users\Desktop>python C:\Users\Desktop\hello.py
     
 The Output would be: 
 
